@@ -155,7 +155,7 @@ msgstr "按一下下載以開啟/隱藏底部面板"
 
 msgctxt "AdvancedSettings|"
 msgid "Hide the Dock icon"
-msgstr ""
+msgstr "隱藏 Dock 圖示"
 
 msgctxt "AdvancedSettings|"
 msgid "Indicate active download and upload using tray icon"
@@ -247,7 +247,7 @@ msgstr "啟用使用者定義的下載順序"
 
 msgctxt "AdvancedSettings|"
 msgid "Show \"Save As...\" button"
-msgstr "顯示「儲存為」按鈕"
+msgstr "顯示「儲存為…」按鈕"
 
 msgctxt "AdvancedSettings|"
 msgid "Enable standalone create new downloads windows"
@@ -295,11 +295,11 @@ msgstr "全部"
 
 msgctxt "AllDownloadsCheckBoxButton|"
 msgid "Downloads only"
-msgstr ""
+msgstr "僅下載"
 
 msgctxt "AllDownloadsCheckBoxButton|"
 msgid "Uploads only"
-msgstr ""
+msgstr "僅上傳"
 
 msgctxt "AllDownloadsCheckBoxButton|"
 msgid "Completed"
@@ -307,7 +307,7 @@ msgstr "已完成"
 
 msgctxt "AllDownloadsCheckBoxButton|"
 msgid "Stopped"
-msgstr ""
+msgstr "已停止"
 
 msgctxt "AllDownloadsFilterModeButton|"
 msgid "Missing Files"
@@ -331,39 +331,39 @@ msgstr "未完成"
 
 msgctxt "AllDownloadsSearchField_V2|"
 msgid "Search in downloads..."
-msgstr ""
+msgstr "在下載中搜尋…"
 
 msgctxt "AllDownloadsSortModeButton|"
 msgid "Old"
-msgstr ""
+msgstr "舊的"
 
 msgctxt "AllDownloadsSortModeButton|"
 msgid "Newest"
-msgstr ""
+msgstr "最新的"
 
 msgctxt "AllDownloadsSortModeButton|"
 msgid "A-Z"
-msgstr ""
+msgstr "A-Z"
 
 msgctxt "AllDownloadsSortModeButton|"
 msgid "Z-A"
-msgstr ""
+msgstr "Z-A"
 
 msgctxt "AllDownloadsSortModeButton|"
 msgid "By size: small"
-msgstr ""
+msgstr "依大小：小"
 
 msgctxt "AllDownloadsSortModeButton|"
 msgid "By size: large"
-msgstr ""
+msgstr "依大小：大"
 
 msgctxt "AllDownloadsSortModeButton|"
 msgid "By status: ascending"
-msgstr ""
+msgstr "依狀態: 遞增"
 
 msgctxt "AllDownloadsSortModeButton|"
 msgid "By status: descending"
-msgstr ""
+msgstr "依狀態: 遞減"
 
 msgctxt "AntivirusComboBox|"
 msgid "Configure manually..."
@@ -1469,7 +1469,7 @@ msgstr "正在檢查檔案"
 
 msgctxt "DownloadProgressBar_V2|"
 msgid "Merging media streams"
-msgstr ""
+msgstr "正在合併媒體串流"
 
 msgctxt "DownloadProgressBar_V2|"
 msgid "Queued"
@@ -1489,7 +1489,7 @@ msgstr "正在檢查檔案"
 
 msgctxt "DownloadStatus_V2|"
 msgid "Merging media streams"
-msgstr ""
+msgstr "正在合併媒體串流"
 
 msgctxt "DownloadStatus_V2|"
 msgid "Requesting info"
@@ -1497,7 +1497,7 @@ msgstr "正在要求資訊"
 
 msgctxt "DownloadStatus_V2|"
 msgid "n/a"
-msgstr ""
+msgstr "n/a"
 
 msgctxt "DownloadStatus_V2|"
 msgid "Queued"
@@ -1625,19 +1625,19 @@ msgstr "磁碟遺失"
 
 msgctxt "DownloadsList|"
 msgid "duplicates (%1)"
-msgstr ""
+msgstr "重複 (%1)"
 
 msgctxt "DownloadsList|"
 msgid "invalid (%1)"
-msgstr ""
+msgstr "失敗 (%1)"
 
 msgctxt "DownloadsList|"
 msgid "unsupported (%1)"
-msgstr ""
+msgstr "未支援 (%1)"
 
 msgctxt "DownloadsList|"
 msgid "Skipped downloads"
-msgstr ""
+msgstr "已跳過的下載"
 
 msgctxt "DownloadsList|"
 msgid "Download links (%1 selected)"
@@ -1653,7 +1653,7 @@ msgstr "全部不選"
 
 msgctxt "DownloadsPage|"
 msgid "Show all downloads"
-msgstr ""
+msgstr "顯示所有下載"
 
 msgctxt "DownloadsPage|"
 msgid "Download list is empty."
@@ -1809,7 +1809,7 @@ msgstr "下載"
 
 msgctxt "DownloadsViewHeader_V2|"
 msgid "Upload"
-msgstr ""
+msgstr "上傳"
 
 msgctxt "DownloadsViewHeader_V2|"
 msgid "Added"
@@ -1841,11 +1841,11 @@ msgstr "為此錯誤類型啟用自動重試"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Save and complete"
-msgstr ""
+msgstr "儲存並完成"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Show downloads"
-msgstr ""
+msgstr "顯示下載"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Choose files..."
@@ -1881,7 +1881,7 @@ msgstr "從清單中移除"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Play file while it is still downloading"
-msgstr ""
+msgstr "正在下載時播放檔案"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Add mirror"
@@ -1997,7 +1997,7 @@ msgstr "正在檢查檔案"
 
 msgctxt "DownloadsViewItemStatus_V2|"
 msgid "Merging media streams"
-msgstr ""
+msgstr "正在合併媒體串流"
 
 msgctxt "DownloadsViewItemStatus_V2|"
 msgid "Requesting info"
@@ -2005,7 +2005,7 @@ msgstr "正在要求資訊"
 
 msgctxt "DownloadsViewItemStatus_V2|"
 msgid "n/a"
-msgstr ""
+msgstr "n/a"
 
 msgctxt "DownloadsViewItemStatus_V2|"
 msgid "Queued"
@@ -2017,7 +2017,7 @@ msgstr "已完成"
 
 msgctxt "DownloadsViewItem_V2|"
 msgid "n/a"
-msgstr ""
+msgstr "n/a"
 
 msgctxt "DownloadsViewStatusItem|"
 msgid "Queued"
@@ -2049,7 +2049,7 @@ msgstr "已完成"
 
 msgctxt "DownloadsViewTools|"
 msgid "Downloads: %1"
-msgstr ""
+msgstr "下載: %1"
 
 msgctxt "EditTagDialog|"
 msgid "Edit tag"
@@ -2490,7 +2490,7 @@ msgstr "基於檔案類型建議資料夾"
 
 msgctxt "GeneralSettings|"
 msgid "Theme"
-msgstr ""
+msgstr "主題"
 
 msgctxt "GeneralSettings|"
 msgid "A light theme will be used, if the system theme is unknown."
@@ -2498,15 +2498,15 @@ msgstr "系統佈景主題未知時，將使用淺色主題。"
 
 msgctxt "GeneralSettings|"
 msgid "UI style"
-msgstr ""
+msgstr "使用者介面樣式"
 
 msgctxt "GeneralSettings|"
 msgid "New (beta)"
-msgstr ""
+msgstr "新 (測試版)"
 
 msgctxt "GeneralSettings|"
 msgid "Classic"
-msgstr ""
+msgstr "經典"
 
 msgctxt "GeneralSettings|"
 msgid "Your language is not listed or the translation isn't complete?"
@@ -3047,7 +3047,7 @@ msgstr "蝸速模式"
 
 msgctxt "MainStatusBar_V2|"
 msgid "Set the traffic usage mode"
-msgstr ""
+msgstr "設定流量使用模式"
 
 msgctxt "MainStatusBar_V2|"
 msgid "%n downloads selected."
@@ -3056,7 +3056,7 @@ msgstr[0] "已選取 %n 個下載項目。"
 
 msgctxt "MainStatusBar_V2|"
 msgid "Total size:"
-msgstr ""
+msgstr "總大小:"
 
 msgctxt "MainToolbar|"
 msgid "Add new download..."
@@ -3108,7 +3108,7 @@ msgstr "遠端控制"
 
 msgctxt "MainToolbar_V2|"
 msgid "Select"
-msgstr ""
+msgstr "選擇"
 
 msgctxt "MainToolbar_V2|"
 msgid "Sort"
@@ -3116,7 +3116,7 @@ msgstr "排序"
 
 msgctxt "MainToolbar_V2|"
 msgid "Filters"
-msgstr ""
+msgstr "篩選器"
 
 msgctxt "MainToolbar_V2|"
 msgid "Start"
@@ -3132,7 +3132,7 @@ msgstr "移除"
 
 msgctxt "MainToolbar_V2|"
 msgid "Move files"
-msgstr ""
+msgstr "搬移檔案"
 
 msgctxt "MainToolbar_V2|"
 msgid "Add download"
@@ -3140,7 +3140,7 @@ msgstr "新增下載"
 
 msgctxt "MainToolbar_V2|"
 msgid "Menu and settings"
-msgstr ""
+msgstr "選單及設定"
 
 msgctxt "MainToolbar_V2|"
 msgid "Switch to user-defined sorting of the download list?"
@@ -3152,7 +3152,7 @@ msgstr "無限制"
 
 msgctxt "MaxURatioComboBox|"
 msgid "Custom..."
-msgstr "自訂..."
+msgstr "自訂…"
 
 msgctxt "MaxURatioComboBox|"
 msgid "Custom value"
@@ -3176,11 +3176,11 @@ msgstr "必須為數字且大於 0。"
 
 msgctxt "MediaFileReadyToPlayDialog|"
 msgid "Ready to play"
-msgstr ""
+msgstr "準備播放"
 
 msgctxt "MediaFileReadyToPlayDialog|"
 msgid "%1 is ready to play"
-msgstr ""
+msgstr "%1 準備播放"
 
 msgctxt "MediaFileReadyToPlayDialog|"
 msgid "Play"
@@ -3228,7 +3228,7 @@ msgstr "行動數據用量"
 
 msgctxt "MobileDataUsageDialog|"
 msgid "Waiting for Wi-Fi to start download."
-msgstr "等候 Wi-FI 以開始下載。"
+msgstr "等候 Wi-Fi 以開始下載。"
 
 msgctxt "MobileDataUsageDialog|"
 msgid "Would you like to enable usage of mobile data? *"
@@ -3388,11 +3388,11 @@ msgstr "路徑包含無效字元"
 
 msgctxt "NativeMenuBar|"
 msgid "Check for Updates..."
-msgstr "檢查更新..."
+msgstr "檢查更新…"
 
 msgctxt "NativeMenuBar|"
 msgid "Preferences..."
-msgstr "偏好設定..."
+msgstr "偏好設定…"
 
 msgctxt "NativeMenuBar|"
 msgid "Quit"
@@ -3528,7 +3528,7 @@ msgstr "無限制"
 
 msgctxt "NetworkSpeedLimitComboBox|"
 msgid "Custom..."
-msgstr "自訂..."
+msgstr "自訂…"
 
 msgctxt "NetworkSpeedLimitComboBox|"
 msgid "KB/s"
@@ -3572,7 +3572,7 @@ msgstr "其它通知"
 
 msgctxt "Notification|"
 msgid "Ready to play"
-msgstr ""
+msgstr "準備播放"
 
 msgctxt "OsPermissionsDialog|"
 msgid "%1 is missing permissions"
@@ -3586,7 +3586,7 @@ msgctxt "OsPermissionsDialog|"
 msgid ""
 "You can grant these permissions using the Application details screen within "
 "your system's settings."
-msgstr ""
+msgstr "您可以使用應用程式詳細資訊畫面授予這些權限於您的系統設定中。"
 
 msgctxt "OsPermissionsDialog|"
 msgid "Don't show again"
@@ -3622,11 +3622,11 @@ msgstr "連線"
 
 msgctxt "PickFileButton|"
 msgid "Browse..."
-msgstr ""
+msgstr "瀏覽…"
 
 msgctxt "PlayAsap|"
 msgid "Play file while it is still downloading"
-msgstr ""
+msgstr "正在下載時播放檔案"
 
 msgctxt "PluginBannerDialog|"
 msgid "Enjoy using %1 add-on?"
@@ -3862,7 +3862,7 @@ msgstr "取消"
 
 msgctxt "ProgressBar_V2|"
 msgid "n/a"
-msgstr ""
+msgstr "n/a"
 
 msgctxt ""
 "QGuiApplication|Translate this string to the string 'LTR' in left-to-right "
@@ -3917,7 +3917,7 @@ msgstr "輸入 URL"
 
 msgctxt "QObject|"
 msgid "Drag-and-drop URL"
-msgstr ""
+msgstr "拖放 URL"
 
 msgctxt "QObject|"
 msgid "Sorry this device is not supported by %1."
@@ -3953,7 +3953,7 @@ msgstr "結束"
 
 msgctxt "QObject|"
 msgid "Preferences..."
-msgstr ""
+msgstr "偏好設定…"
 
 msgctxt "QObject|"
 msgid "Check for updates..."
@@ -4141,7 +4141,7 @@ msgstr "衝突"
 
 msgctxt "QObject|"
 msgid "Gone"
-msgstr "不見了"
+msgstr "完成"
 
 msgctxt "QObject|"
 msgid "Length Required"
@@ -4337,11 +4337,11 @@ msgstr "不相容版本"
 
 msgctxt "QObject|"
 msgid "Security check failed"
-msgstr ""
+msgstr "安全性檢查錯誤"
 
 msgctxt "QObject|"
 msgid "Already exists"
-msgstr ""
+msgstr "已存在"
 
 msgctxt "QObject|"
 msgid "Host not found"
@@ -4409,11 +4409,11 @@ msgstr "偵測到非預期行為"
 
 msgctxt "QObject|"
 msgid "Unknown host key"
-msgstr ""
+msgstr "未知的主機金鑰"
 
 msgctxt "QObject|"
 msgid "Public key of the host is unknown"
-msgstr ""
+msgstr "主機的公鑰未知"
 
 msgctxt "QObject|"
 msgid "Unsupported URL"
@@ -4597,7 +4597,7 @@ msgstr "打開資料夾"
 
 msgctxt "QtFfmpegAvMerger|"
 msgid "%1 returned non-zero (%2) exit status"
-msgstr ""
+msgstr "%1 返回非零 (%2) 退出狀態"
 
 msgctxt "QuaGzipFile|"
 msgid "QIODevice::Append is not supported for GZIP"
@@ -5053,7 +5053,7 @@ msgstr "警告: 有潛在安全風險"
 
 msgctxt "SslDialog|"
 msgid "The authenticity of the host can't be established."
-msgstr ""
+msgstr "無法確定該主機的真實性。"
 
 msgctxt "SslDialog|"
 msgid "SSL Certificate is not valid."
@@ -5061,7 +5061,7 @@ msgstr "SSL 憑證無效。"
 
 msgctxt "SslDialog|"
 msgid "%1 key fingerprints"
-msgstr ""
+msgstr "%1 金鑰指紋"
 
 msgctxt "SslDialog|"
 msgid "Certificate fingerprints"
@@ -5079,11 +5079,11 @@ msgctxt "SslDialog|"
 msgid ""
 "If you trust this host, select Accept to remember the key and carry on "
 "connecting."
-msgstr ""
+msgstr "如果您信任該主機，請選擇「接受」以記住金鑰並繼續連線。"
 
 msgctxt "SslDialog|"
 msgid "Accept"
-msgstr ""
+msgstr "接受"
 
 msgctxt "SslDialog|"
 msgid "Accept the risk and download"
@@ -5107,7 +5107,7 @@ msgstr "正在檢查檔案"
 
 msgctxt "StatusItem|"
 msgid "Merging media streams"
-msgstr "合併媒體串流中"
+msgstr "正在合併媒體串流"
 
 msgctxt "StatusItem|"
 msgid "Queued"
@@ -5275,7 +5275,7 @@ msgstr "最大額外查詢資訊下載數目:"
 
 msgctxt "TrafficLimitsSettings|"
 msgid "Enable additional downloads to optimize speed"
-msgstr ""
+msgstr "啟用額外下載以優化速度"
 
 msgctxt "TrafficLimitsSettings|"
 msgid "Invalid traffic limits settings"
@@ -5311,7 +5311,7 @@ msgstr "啟用加強日誌"
 
 msgctxt "TroubleshootingSettings|"
 msgid "Enable LT alerts logging"
-msgstr ""
+msgstr "啟用 LT 警報日誌記錄"
 
 msgctxt "TroubleshootingSettings|"
 msgid "Restart is required"
@@ -5319,7 +5319,7 @@ msgstr "必需重啟"
 
 msgctxt "TroubleshootingSettings|"
 msgid "Do crash app"
-msgstr ""
+msgstr "使應用程式崩潰"
 
 msgctxt "TroubleshootingSettings|"
 msgid "Hide"
@@ -5359,7 +5359,7 @@ msgstr "無限制"
 
 msgctxt "TumMaxURatioComboBox|"
 msgid "Custom..."
-msgstr "自訂..."
+msgstr "自訂…"
 
 msgctxt "TumMaxURatioComboBox|"
 msgid "Please enter numbers only"
@@ -5415,7 +5415,7 @@ msgstr "檔案名稱"
 
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Play file while it is still downloading"
-msgstr ""
+msgstr "正在下載時放檔案"
 
 msgctxt "TuneAndAddDownloadPage|"
 msgid "No write access to the selected directory"
@@ -5435,11 +5435,11 @@ msgstr "大小: %1"
 
 msgctxt "UiUpdatedBanner|"
 msgid "The classic interface is turned on."
-msgstr ""
+msgstr "經典介面已開啟。"
 
 msgctxt "UiUpdatedBanner|"
 msgid "The new interface is turned on."
-msgstr ""
+msgstr "新介面已開啟。"
 
 msgctxt "UiUpdatedBanner|"
 msgid "OK"
@@ -5447,15 +5447,15 @@ msgstr "確定"
 
 msgctxt "UiUpdatedBanner|"
 msgid "Switch to the new interface"
-msgstr ""
+msgstr "切換成經典介面"
 
 msgctxt "UiUpdatedBanner|"
 msgid "Switch to the classic interface"
-msgstr ""
+msgstr "切換成新介面"
 
 msgctxt "UpdateDialog|"
 msgid "Checking for updates..."
-msgstr "正在檢查更新..."
+msgstr "正在檢查更新…"
 
 msgctxt "UpdateDialog|"
 msgid "Error:"
@@ -5503,7 +5503,7 @@ msgstr "安裝時發生錯誤:"
 
 msgctxt "UpdateDialog|"
 msgid "Checking..."
-msgstr "正在檢查..."
+msgstr "正在檢查…"
 
 msgctxt "UpdateDialog|"
 msgid "Update downloaded"
