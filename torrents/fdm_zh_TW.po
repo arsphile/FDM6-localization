@@ -18,27 +18,27 @@ msgstr "新增追蹤器"
 
 msgctxt "BtDetailsTab|"
 msgid "Peers:"
-msgstr ""
+msgstr "用戶:"
 
 msgctxt "BtDetailsTab|"
 msgid "Seeds:"
-msgstr ""
+msgstr "種子:"
 
 msgctxt "BtDetailsTab|"
 msgid "Availability:"
-msgstr ""
+msgstr "可用性:"
 
 msgctxt "BtDetailsTab|"
 msgid "Last seen complete:"
-msgstr ""
+msgstr "最後看到完整:"
 
 msgctxt "BtDetailsTab|"
 msgid "Tracker URL"
-msgstr ""
+msgstr "追蹤器 URL"
 
 msgctxt "DownloadContextMenu|"
 msgid "Disable seeding"
-msgstr "停用植種"
+msgstr "停用作種"
 
 msgctxt "DownloadContextMenu|"
 msgid "Add trackers"
@@ -76,7 +76,7 @@ msgctxt "IntegrationSettings|"
 msgid ""
 "Please use %2Default apps system settings%3 to make %1 the default torrent "
 "client"
-msgstr ""
+msgstr "請使用 %2 預設應用程式系統設定 %3 將 %1 設為預設 Torrent 用戶端"
 
 msgctxt "QObject|"
 msgid "Associate with magnet links"
@@ -92,7 +92,7 @@ msgstr "輸入 URL 或選擇 Torrent 檔案"
 
 msgctxt "QObject|"
 msgid "Drag-and-drop URL or torrent file"
-msgstr ""
+msgstr "拖放 URL 或 Torrent 檔案"
 
 msgctxt "QObject|"
 msgid "Merge trackers"
@@ -104,7 +104,7 @@ msgstr "Torrent"
 
 msgctxt "QObject|"
 msgid "seeding"
-msgstr "植種"
+msgstr "作種"
 
 msgctxt "Settings|"
 msgid "Automatically delete .torrent files once the download is finished"
@@ -116,15 +116,15 @@ msgstr "監視新 .torrent 檔案的資料夾"
 
 msgctxt "Settings|"
 msgid "Enable DHT to find more peers"
-msgstr "啟用 DHT 以尋找更多同儕"
+msgstr "啟用 DHT 以尋找更多用戶"
 
 msgctxt "Settings|"
 msgid "Enable PeX to find more peers"
-msgstr "啟用 PeX 以尋找更多同儕"
+msgstr "啟用 PeX 以尋找更多用戶"
 
 msgctxt "Settings|"
 msgid "Enable Local Peer Discovery to find more peers"
-msgstr "啟用「本端同儕探索」以尋找更多同儕"
+msgstr "啟用「本端用戶探索」以尋找更多用戶"
 
 msgctxt "Settings|"
 msgid "Enable uTP"
@@ -144,4 +144,4 @@ msgstr "BitTorrent 設定"
 
 msgctxt "SettingsPage|"
 msgid "Stop seeding at ratio"
-msgstr "抵達比率時停止植種"
+msgstr "抵達比率時停止作種"
